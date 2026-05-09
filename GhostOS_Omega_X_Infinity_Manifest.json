@@ -236,7 +236,7 @@
       },
       "quantum_mechanics": {
         "state": "ψ∈L²(ℝⁿ), ||ψ||=1",
-        "Schrodinger": "iℏ∂ψ/∂t=Ĥψ",
+        "Schrödinger": "iℏ∂ψ/∂t=Ĥψ",
         "Heisenberg": "[x̂,p̂]=iℏ — position-momentum",
         "uncertainty": "ΔxΔp≥ℏ/2",
         "measurement": "⟨A⟩=⟨ψ|Â|ψ⟩, collapse to eigenstate",
@@ -614,4 +614,3 @@
     }
   }
 }
-
